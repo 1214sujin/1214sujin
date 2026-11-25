@@ -1,25 +1,25 @@
 ## 안녕하세요!
 백엔드에서 개발하고 있는 강수진입니다.  
-아래는 팀 프로젝트 목록입니다. 깃허브 탐색에 도움이 되었으면 좋겠습니다😊
+아래는 시간순으로 정리된 프로젝트 목록입니다. 깃허브 탐색에 도움이 되었으면 좋겠습니다😊
 
-- [TrashTrackr](https://github.com/1214sujin/trashtrackr) - 길거리 쓰레기통 관리 시스템 개발  
-<sub>IoT 디바이스 개발 참여.</sub> 
-<sub>Express.js, Raspberry pi, python, ...</sub>
+- [Tickety](https://github.com/WRKR-KEA/backend-tms) - 사내 티켓 관리 서비스　<sub>2025.01 ~ 2025.02</sub><br/>
+<sub>Spring Boot, Spring Data JPA, QueryDSL, React.js([프론트엔드](https://github.com/WRKR-KEA/frontend)), ...</sub>
 
-- [Mr.Chat](https://github.com/1214sujin/WagleWagle-ATM) - ChatGPT 기반 영어 학습 서비스  
-<sub>ChatGPT API 연동.</sub> 
-<sub>Express.js, OpenAI API, ...</sub>
-
-- [Ondoset](https://github.com/1214sujin/ondoset) - 날씨 기반 코디 추천 개인화 서비스  
-<sub>AI 모델 및 기상청 API 연동.</sub> 
-<sub>Spring Boot, Spring Security, Spring Data JPA, WebClient(Spring WebFlux), ...</sub>
-
-- [PPLOG](https://github.com/KEA-5th-Myaong/backend) - AI 모델을 이용한 클라우드 네이티브 기반 취업 지원 블로그 서비스  
+- [PPLOG](https://github.com/KEA-5th-Myaong/backend) - AI 모델을 이용한 클라우드 네이티브 기반 취업 지원 블로그 서비스　<sub>2024.09 ~ 2024.12</sub><br/>
 <sub>인프라 구축 참여(Kafka Connect 등).</sub> 
 <sub>Spring Boot, Spring Data JPA, QueryDSL, AWS SDK(S3), ...</sub>
 
-- [Tickety](https://github.com/WRKR-KEA/backend-tms) - 사내 티켓 관리 서비스  
-<sub>Spring Boot, Spring Data JPA, QueryDSL, React.js([프론트엔드](https://github.com/WRKR-KEA/frontend)), ...</sub>
+- [Ondoset](https://github.com/1214sujin/ondoset) - 날씨 기반 코디 추천 개인화 서비스　<sub>2024.02 ~ 2024.05</sub><br/>
+<sub>AI 모델 및 기상청 API 연동.</sub> 
+<sub>Spring Boot, Spring Security, Spring Data JPA, WebClient(Spring WebFlux), ...</sub>
+
+- [Mr.Chat](https://github.com/1214sujin/WagleWagle-ATM) - ChatGPT 기반 영어 학습 서비스　<sub>2024.2 (해커톤)</sub><br/>
+<sub>ChatGPT API 연동.</sub> 
+<sub>Express.js, OpenAI API, ...</sub>
+
+- [TrashTrackr](https://github.com/1214sujin/trashtrackr) - 길거리 쓰레기통 관리 시스템 개발　<sub>2023.11 ~ 2023.12</sub><br/>
+<sub>IoT 디바이스 개발 참여.</sub> 
+<sub>Express.js, Raspberry pi, python, ...</sub>
 
 ##
 
